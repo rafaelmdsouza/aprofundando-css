@@ -1,0 +1,51 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url(img/fundo.png);
+    font-size: 15px;
+    width: 900px;
+    
+}
+
+a{
+    color: #505050;
+    text-decoration: none;
+}
+
+.header-img{
+    width: 900px;
+}
+
+#nav-bar{
+        font-weight: bold;
+        text-transform: uppercase;
+        word-spacing: 5px;
+        font-size: 15px;
+        margin: 15px;
+}
+
+.article-title{
+    color: rgba(76, 120, 201, 0.993);
+    font-size: 15px;
+}
+
+.article{
+    background: white;
+    text-align: justify;
+    font-size: 13px;
+    padding: 5px;
+}
+
+.article-img{
+    border: 10px ridge #f7f7f7 ;
+}
+
+.contact{
+    font-weight: bold;
+}
+
+.footer{
+    font-weight: bold;
+    padding: 8px;
+    text-align: center;
+    
+}
