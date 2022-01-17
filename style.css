@@ -3,6 +3,7 @@ body{
     background-image: url(img/fundo.png);
     font-size: 15px;
     width: 900px;
+    margin: auto;
     
 }
 
